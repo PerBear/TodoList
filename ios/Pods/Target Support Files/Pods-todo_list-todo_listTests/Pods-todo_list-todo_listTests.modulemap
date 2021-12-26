@@ -1,0 +1,6 @@
+module Pods_todo_list_todo_listTests {
+  umbrella header "Pods-todo_list-todo_listTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
